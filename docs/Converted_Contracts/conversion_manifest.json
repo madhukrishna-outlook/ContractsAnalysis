@@ -1,0 +1,189 @@
+[
+  {
+    "source": "https://www.sec.gov/Archives/edgar/data/1862150/000164117225009289/ex10-4.htm",
+    "category": "MSA",
+    "name": "MSA_Template_1",
+    "status": "ok",
+    "outputs": [
+      "/Users/madhukrishnag/work/ContractsAnalysis/docs/Converted_Contracts/MSA/MSA_Template_1.pdf",
+      "/Users/madhukrishnag/work/ContractsAnalysis/docs/Converted_Contracts/MSA/MSA_Template_1.docx"
+    ],
+    "message": ""
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "MSA",
+    "name": "MSA_Template_2",
+    "status": "skipped",
+    "outputs": [],
+    "message": "the URL is the SEC homepage, not a filing exhibit"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "MSA",
+    "name": "MSA_Template_3",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "MSA",
+    "name": "MSA_Template_4",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "MSA",
+    "name": "MSA_Template_5",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "MSA",
+    "name": "MSA_Template_6",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "MSA",
+    "name": "MSA_Template_7",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "MSA",
+    "name": "MSA_Template_8",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "MSA",
+    "name": "MSA_Template_9",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "MSA",
+    "name": "MSA_Template_10",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "SOW",
+    "name": "SOW_Template_1",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "SOW",
+    "name": "SOW_Template_2",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "SOW",
+    "name": "SOW_Template_3",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "SOW",
+    "name": "SOW_Template_4",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "SOW",
+    "name": "SOW_Template_5",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "SOW",
+    "name": "SOW_Template_6",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "NDA",
+    "name": "NDA_Template_1",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "NDA",
+    "name": "NDA_Template_2",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "NDA",
+    "name": "NDA_Template_3",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "NDA",
+    "name": "NDA_Template_4",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "NDA",
+    "name": "NDA_Template_5",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "ORDER_FORM",
+    "name": "ORDER_FORM_Template_1",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  },
+  {
+    "source": "https://sec.gov",
+    "category": "ORDER_FORM",
+    "name": "ORDER_FORM_Template_2",
+    "status": "skipped",
+    "outputs": [],
+    "message": "duplicate response; this URL returned a page already seen"
+  }
+]

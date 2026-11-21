@@ -1,0 +1,25 @@
+{
+  "q1": {
+    "type": "noul",
+    "instructions": "Are there any terms and conditions for renewal?"
+  },
+  "q2": {
+    "type": "score",
+    "instructions": "What is the risk assessment score from the terms and conditions?",
+    "criteria": ["Low", "Medium", "High"]
+  },
+  "q3": {
+    "type": "choice",
+    "instructions": "What is the jurisdiction?",
+    "criteria": {
+      "In California": null,
+      "In USA outside of California": null,
+      "Europe": null,
+      "APAC": null
+    }
+  },
+  "q4": {
+    "type": "noul",
+    "instructions": "Is there an indemnity clause?"
+  }
+}
